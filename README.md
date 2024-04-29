@@ -1,2 +1,6 @@
 # CS-230
 Operating Platforms
+
+Our client, The Gaming Room, was looking to expand on their existing gaming app, Draw It or Lose It.  Draw It or Lose It was originally created for Android systems.  The Gaming Room wanted to expand the application to be web-based, accessible on multiple platforms, and integrate security features such as user authentication using RESTful API.
+The Gaming Room asked for recommendations on which operating platform would be best for hosting their web-based game Draw It or Lose It.  I was required to research different multiple operating platforms, such as Linux, Microsoft Windows, and Mac, to be able to properly recommend a suitable platform for our client.  In this section, I believe that I did particularly well, as I had to research issues such as costs, security features, and compatibility requirements for both server side and client side of each of the platforms.  
+The user’s need helped in designing the software for our client by providing information such as the design constraints.  The game had to be web-based.  The game had to have the ability to have solo or multiplayer mode.  Game and team names had to be unique to allow users to check weather a name is already in use, which required the use of the singleton design pattern.  
